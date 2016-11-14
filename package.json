@@ -1,0 +1,19 @@
+{
+  "name": "tour-of-heroes",
+  "version": "1.0.0",
+  "description": "* This is the second level tutorial (following 'hello world') from the Angular2 documentation. I am completing it as a refresher before jumping back into Angular2 research.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkane106/ng-tour-of-heroes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkane106/ng-tour-of-heroes/issues"
+  },
+  "homepage": "https://github.com/kkane106/ng-tour-of-heroes#readme"
+}
